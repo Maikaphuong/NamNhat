@@ -253,6 +253,8 @@ int main()
 		}
 		}
 	} while (choice != '0');
+	int a = 0;
+	cout << ">> Con so cua a: " << a << endl;
 	system("pause");
 	return 0;
 }
